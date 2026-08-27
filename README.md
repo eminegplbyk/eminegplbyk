@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Emine Gül Palabıyık 👋</h1>
+<h1 align="center">Emine Gül Palabıyık</h1>
 
 <p align="center">
   Management Information Systems Graduate | Business Analysis • Data Analytics • Process Improvement
