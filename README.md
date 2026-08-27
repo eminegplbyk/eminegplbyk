@@ -1,4 +1,4 @@
-<h1 align="center">Emine Gül Palabıyık</h1>
+<h1Emine Gül Palabıyık</h1>
 
 <p align="center">
   Management Information Systems Graduate | Business Analysis • Data Analytics • Process Improvement
@@ -7,6 +7,8 @@
 <h3 align="center">Tools & Technologies</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="28" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="28" alt="Excel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" />
