@@ -18,6 +18,5 @@
 </p>
 
 <p align="center">
-  📍 Ankara, Türkiye &nbsp; • &nbsp;
   <a href="https://www.linkedin.com/in/emine-gül-palabıyık-522228245/">LinkedIn</a>
 </p>
