@@ -1,14 +1,14 @@
 Emine Gül Palabıyık
 
-Management Information Systems graduate from Ankara, interested in business analysis, data analytics, process improvement, and digital transformation.
+Management Information Systems graduate based in Türkiye and open to relocating to Ankara, interested in business analysis, data analytics, process improvement, and digital transformation.
 
 🎓 Gazi University | Management Information Systems
 - Currently building data analytics and Power BI portfolio projects
-- Interested in Business Analysis, Data Analytics & BP
+- Interested in Business Analysis, Data Analytics & BPM
 
 Connect with me:
 
-<a href="https://www.linkedin.com/in/emine-gül-palabıyık-522228245/" target="_blank">
+<a href="https://www.linkedin.com/in/eminegulpalabiyik/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="38" alt="LinkedIn" />
 </a>
 
